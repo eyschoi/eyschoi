@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 I work in Analytics and I'm based on Canada
+- ⚡ Here you will find some of my projects
+- 😄 I’m currently working on a data scrapping project using Selenium and Python
+
 <!--
 **eyschoi/eyschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
